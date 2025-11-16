@@ -10,6 +10,7 @@ You can find the live version of this project [here](https://www.vintagepoker.ne
 
 ### Frontend:
 
+
 - **React Ecosystem:**
   - Project was bootstrapped with **create-react-app**
   - UI-Layer was created with **React**
