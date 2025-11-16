@@ -22,6 +22,7 @@ You can find the live version of this project [here](https://www.vintagepoker.ne
 
 ### Backend:
 
+
 - **Node.js** & **Express.js**
 - **mongoDb** is used as the database & **mongoose** as ORM
 - Authentication is implemented with **JSON Web Tokens**
